@@ -10,14 +10,12 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-     <label for="Name"><b>Enter email</b></label>
+     <label for="email"><b>Enter email</b></label>
     <input type="text" placeholder="Enter email" name="emailid" id="Emailid" required>
     <br>
 
 
 
-
-    e="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
